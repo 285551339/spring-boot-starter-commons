@@ -1,4 +1,4 @@
-package com.nebula.service;
+package com.nebula.redis.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

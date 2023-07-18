@@ -1,4 +1,4 @@
-package com.nebula;
+package com.nebula.redis;
 
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
